@@ -1,4 +1,4 @@
-# 🌴 Pacific Travel Website
+<img width="1896" height="977" alt="image" src="https://github.com/user-attachments/assets/cbdb7f23-48ca-4843-9bd5-e73984cf9e5e" /><img width="1896" height="977" alt="image" src="https://github.com/user-attachments/assets/e0204ac7-3293-4977-8937-da620bb9d52a" /># 🌴 Pacific Travel Website
 
 > **A static travel agency website deployed on Amazon S3 and maintained with GitHub.**
 
@@ -141,7 +141,11 @@ git push
 
 The final website is successfully displayed through the Amazon S3 website endpoint.
 
-![Live Website](screenshots/01-live-website.png)
+![Uploading image.png…]()
+
+
+
+
 
 ---
 
