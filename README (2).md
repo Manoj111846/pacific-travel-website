@@ -91,17 +91,7 @@ The website was deployed as a static website on Amazon S3.
 
 ![GitHub Repository Setup](./10-github-repository-setup.png)
 
-## 11. 💻 Local Project Folder
 
-![Local Project Folder](./11-local-project-folder.png)
-
-## 12. ⚠️ S3 403 Troubleshooting
-
-![S3 403 Troubleshooting](./12-s3-403-troubleshooting.png)
-
-## 13. ⚠️ S3 404 Troubleshooting
-
-![S3 404 Troubleshooting](./13-s3-404-troubleshooting.png)
 
 # 📂 Project Structure
 
