@@ -83,15 +83,6 @@ The website was deployed as a static website on Amazon S3.
 
 ![S3 Uploaded Folders](./08-s3-uploaded-folders.png)
 
-## 9. 🐙 GitHub Dashboard
-
-![GitHub Dashboard](./09-github-dashboard.png)
-
-## 10. ⚙️ GitHub Repository Setup
-
-![GitHub Repository Setup](./10-github-repository-setup.png)
-
-
 
 # 📂 Project Structure
 
